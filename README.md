@@ -4,14 +4,14 @@ We have built a sample prototype to demonstrate how we will develop real industr
 
 The software (web-app) provides the following features: 
 
-1. Create a *user-friendly* interface which will help DHFL with clear and easy-to-interpret visual data. 
+1. Create a *user-friendly* interface which will help us with clear and easy-to-interpret visual data. 
 
-2. Predict probability of a current customer to leave DHFL ranging from 0 to 1 
-   where 0 will denote that customer will never leave DHFL and 1 will denote that customer is definitely going to leave DHFL. 
+2. Predict probability of a current customer to leave a telecom company ranging from 0 to 1 
+   where 0 will denote that customer will never leave and 1 will denote that customer is definitely going to leave. 
    
 3.  Provide quick & on-demand data of top percentage of people likely to leave . Enables user to streamline their focus on required number of people . However choosing to predict for any customer from the data is always an option . 
 
-4. Show all details , prediction of probability of a customer leaving DHFL along with its graph.
+4. Show all details , prediction of probability of a customer leaving the company along with its graph.
    Also show probability of different reasons of leaving for each customer and display easy-to-interpret pie-charts demonstrating each reason for in-depth analysis . 
 This pie-chart graph shows that if probability of churn becomes true and customer really leaves, then what factors will contribute to  his/her leaving the organization, i.e. , reasons for leaving and it will show probability of each reason contributing to his/her withdrawal from services of organization.
 
@@ -25,7 +25,7 @@ Password - ```admin```
 Visit the link mentioned above to launch the fully functional web-application.
 On clicking the link, a page like this will appear:
 
-![screenshot 2](https://user-images.githubusercontent.com/31181537/45590228-a49c5b00-b951-11e8-9b71-c4d1b6fb42a2.png)
+
 
 
 Enter the login credentials provided above, **note** that entering wrong credentials will prevent user-login!
@@ -48,7 +48,7 @@ Now, on clicking **Predict** , a dropdown menu consisting of all employee-ids is
 
 Select any customer from drop-down menu and click **Predict** -
 
-![untitled](https://user-images.githubusercontent.com/31181537/45590294-188b3300-b953-11e8-9622-aaf0ef696612.png)
+
 
 
 A data-visualised meter showing churn-risk (low-medium-high) , along with top reasons for leaving and details of customers is shown.
