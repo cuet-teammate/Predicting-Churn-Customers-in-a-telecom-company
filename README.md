@@ -37,8 +37,7 @@ Now , user will have the choice of entering request data.
 
 Through Default File , we have provided a sample testing file-  ```testtestdefault1``` , located in the `default` folder for the user , which is of this format:
 
-![capture](https://user-images.githubusercontent.com/31181537/45590054-00fd7b80-b94e-11e8-891e-dfa83be5e3a8.JPG)
-
+![capture](https://www.overleaf.com/project/6040bd600929f93fbafb9ade)
 
 As shown , the file requires these entries , along with an empty column of  **Exited** which represents exiting probability from 0-1.
 
