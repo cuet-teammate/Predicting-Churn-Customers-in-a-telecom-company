@@ -15,13 +15,10 @@ The software (web-app) provides the following features:
    Also show probability of different reasons of leaving for each customer and display easy-to-interpret pie-charts demonstrating each reason for in-depth analysis . 
 This pie-chart graph shows that if probability of churn becomes true and customer really leaves, then what factors will contribute to  his/her leaving the organization, i.e. , reasons for leaving and it will show probability of each reason contributing to his/her withdrawal from services of organization.
 
-### Using this prototype live !
-This prototype to predict customer churn is live at http://predictkaro.herokuapp.com/ !!
-We have deployed whole machine-learning model on web for ease-of-access . Simply go to this url and login using the below 
-username and password . 
 
-Username - ```dhfl``` <br>
-Password - ```dhfl```
+
+Username - ```user``` <br>
+Password - ```admin```
 
 ## How to use the web-app : a walkthrough
 
@@ -153,9 +150,4 @@ When all python dependencies are installed , simply execute the .py script named
 ```python flask_app.py ``` in the cmd prompt should do the task.
 Follow the link generated, and the flask code should be up and running !
 
-## Creators
-* [Ashish Bhawnani](https://github.com/ashishgeeky)
-* [Nipun Binjola](https://github.com/NipunBinjola)
-* [Akash Rana](https://github.com/akash29rana)
-* [Rahul Chauhan](https://github.com/RanaRauff)
 
